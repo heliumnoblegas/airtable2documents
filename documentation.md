@@ -12,16 +12,15 @@ Currently, it only support one table
 
    Example
    
-   "First of all, we would like to thank you and the rest of the team at {{Official Company Name}}. We are honored to be considered for the {{Project Name}} project."
+   ```
+   First of all, we would like to thank you and the rest of the team at {{Official Company Name}}. We are honored to be considered for the {{Project Name}} project.
+   Date of submission {{Date}}
+   Contract valid for {{days}}
+   Description of work: {{Work Description}}
+   Case Study: {{Case Study}}
    
-   "Date of submission {{Date}}
+   ```
    
-   "Contract valid for {{days}}."
-   
-   "Description of work: {{Work Description}}"
-   
-   "Case Study: {{Case Study}}"
-
-5. Press generat, it would generate the document one by one, depends on how many records you have
+Press `generat` button, it would generate the document one by one, depends on how many records you have
 
 
