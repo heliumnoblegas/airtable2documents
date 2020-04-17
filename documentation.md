@@ -1,3 +1,9 @@
+---
+layout: default
+title: How it works
+navigation_weight: 2
+---
+
 # How it works
 
 1. You need to get your API key of AirTable.
@@ -14,10 +20,10 @@ Currently, it only support one table
    
    ```
    First of all, we would like to thank you and the rest of the team at {{Official Company Name}}. We are honored to be considered for the {{Project Name}} project.
-   Date of submission \{\{Date\}\}
-   Contract valid for \{\{days\}\}
-   Description of work: \{\{Work Description\}\}
-   Case Study: \{\{Case Study\}\}
+   Date of submission {%raw%}{{Date}}{%endraw%}
+   Contract valid for {%raw%}{{Days}}{%endraw%}
+   Description of work: {%raw%}{{Works Description}}{%endraw%}
+   Case Study: {%raw%}{{Case study}}{%endraw%}
    ```
    
 Press `generat` button, it would generate the document one by one, depends on how many records you have
