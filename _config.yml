@@ -1,5 +1,4 @@
-#theme: jekyll-theme-cayman
-theme: jekyll-theme-minimal
+theme: minima 
 title: Airtable2GoogleDoc 
 show_downloads: false
 
